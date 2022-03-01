@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Shopify App
+                    Laravel Shopify App Working
                 </div>
             </div>
         </div>
